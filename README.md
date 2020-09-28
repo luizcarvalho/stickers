@@ -1,5 +1,4 @@
-<img src='./figurinhas/83cb290a-5f43-4213-8242-6d8edc0e7b43.webp.png' width='100px' height='100px'>
-<img src='./figurinhas/624af50c-2b61-4b30-a283-bff8cdda1bee.webp.png' width='100px' height='100px'>
+<img src='./figurinhas/83cb290a-5f43-4213-8242-6d8edc0e7b43.webp.png' width='100px' height='100px'> <img src='./figurinhas/624af50c-2b61-4b30-a283-bff8cdda1bee.webp.png' width='100px' height='100px'>
 <img src='./figurinhas/57d90308-250c-455d-9c4f-c2f4e355be5b.webp.png' width='100px' height='100px'>
 <img src='./figurinhas/8c98e3c5-0a3d-4243-a203-7ae13faca71e.webp.png' width='100px' height='100px'>
 <img src='./figurinhas/4b2ee9b0-5abb-4cb0-9c88-58b2de473865.jpg.webp.png' width='100px' height='100px'>
