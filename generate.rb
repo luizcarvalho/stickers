@@ -1,4 +1,4 @@
-page = File.new('figurinhas.html', 'w+')
+page = File.new('index.html', 'w+')
 page.puts File.read('./head.html')
 
 Dir.glob('./figurinhas/*.png').each do |sticker|
